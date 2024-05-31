@@ -72,14 +72,14 @@
 
     // Button - can be replaced using CodeStitch's "Button" Stitches
    .cs-nav li:last-child, .cs-button-solid {
-       
+        font-size: calc(16 / 16 * 2rem);
         font-weight: bold;
       
         text-align: center;
         text-decoration: none;
         width: auto;
        
-        padding: 10px calc(30 / 16 * 1rem);
+        padding: 0 calc(30 / 16 * 1rem);
         border-radius:var(--primaryRadius);
 
         // Transition Properties
@@ -563,7 +563,7 @@
         .cs-li-link {
             /* 16px - 24px */
             font-size: clamp(1rem, 2.5vw, 1.5rem);
-            line-height: 1.2em;
+           
             text-decoration: none;
             margin: 0;
             color: white;
@@ -935,7 +935,7 @@
         }
     }
  .cs-nav li:last-child {padding: 0px!important;}
-    .cs-nav li:last-child  a {color:white!important; padding: 0px 25px!important; }
+    .cs-nav li:last-child  a {font-size:2rem; line-height:2rem;color:white!important; padding: 10px 25px!important; }
 .cs-nav li:last-child a:hover {color: white !important;
     
     &:before {
