@@ -45,6 +45,11 @@ eleventyNavigation:
                 {%- for post in collections.post | reverse -%}
                     <article class="recent-articles">
                         <div class="article-group">
+
+                            <h2 style="margin-bottom: 2rem;">
+                                <a class="blog-h1" href="{{ post.url }}"> {{ post.data.title }}</a>
+                            </h2>
+                            
                         <!--Main Article Image-->
                         <picture class="blog-mainImage">
                             <img
@@ -53,6 +58,7 @@ eleventyNavigation:
                            
                             decoding="async" />
                         </picture>
+                        <span style="display:block; margin-bottom:5rem" class="blog-date">{{ post.date | postDate }}</span>
                         <!--Article Info
                        
                             <div class="blog-authorGroup">
@@ -72,10 +78,7 @@ eleventyNavigation:
                                 
                                 
                             </div>-->
-                            <h2>
-                                <a class="blog-h1" href="{{ post.url }}"> {{ post.data.title }}</a>
-                            </h2>
-                            <span class="blog-date">{{ post.date | postDate }}</span>
+                            
                             <!--<p class="blog-desc">
                                 {{ post.data.description }}
                             </p>-->

@@ -1,7 +1,7 @@
 {
-	"name": "Design Gandalf",
-	"description": "test",
-	"email": "designgandalf@gmail.com",
+	"name": "Danny Skelley",
+	"description": "Detroit Designer, Artist & Drummer",
+	"email": "dannyskelley@gmail.com",
 	"phoneForTel": "313-801-47388",
 	"phoneFormatted": "(313) 801-7388",
 	"address": {
@@ -12,5 +12,5 @@
 		"zip": "48220",
 		"mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
 	},
-	"domain": "www.designgandalf.com"
+	"domain": "dannyskelley.com"
 }
