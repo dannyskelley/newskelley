@@ -32,55 +32,15 @@ eleventyNavigation:
     <!--                Contact Form                  -->
     <!-- ============================================ -->
 
-    <section id="cs-contact">
+    <section style="text-align: center;">
         <div class="cs-container">
             <form action="/thanks" id="cs-form" name="contact" method="post" data-netlify="true" >
                 <input type="hidden" name="form-name" value="contact" />
                 <div class="cs-content">
-                    <span class="cs-topper">Contact</span>
-                    <h2 class="cs-title">Get in Touch</h2>
-                    <!--<p class="cs-text">
-                     We  will be in touch right away to learn more about you and your business.
-                     </p>-->
+                   <!--<span class="cs-topper">Contact</span>-->
+                    <h2 class="cs-title">Email</h2>
+                    <span class="cs-header">Email</span>
+                    <a class="cs-link" href="mailto:{{client.email}}">{{client.email}}</a>
                 </div>
-                <label>
-                    Name
-                    <input required type="text" id="name" name="name" placeholder="Name">
-                </label>
-                <label>
-                    Business
-                        <input type="text" id="business" name="business" placeholder="Business">
-                    </label>
-                <label>
-                    Email
-                    <input required type="text" id="email" name="email" placeholder="Email">
-                </label>
-                <label>
-                    Phone
-                    <input required type="text" id="phone" name="phone" placeholder="Phone">
-                </label>
-   
-                <label class="cs-label-message">
-                    Message
-                    <textarea required name="Message" id="message" placeholder="Type your message here"></textarea>
-                </label>
-                <button class="cs-button-solid" type="submit">Submit Message</button>
-            </form>
-            <div class="cs-right-section">
-                <!--Email-->
-                <span class="cs-header">Email</span>
-                <a class="cs-link" href="mailto:{{client.email}}">{{client.email}}</a>
-                <!--Phone-->
-                <span class="cs-header">Phone</span>
-                <a class="cs-link" href="tel:{{client.phoneForTel}}">{{client.phoneFormatted}}</a>
-               
-                <!-- Background Image-->
-                <picture class="cs-bg-picture">
-                    <!--<source media="(min-width: 601px)" srcset="/assets/images/contact.jpg">-->
-                    <img aria-hidden="true" decoding="async" src="/assets/images/contact.jpeg" alt="Detroit Web Designer" loading="lazy">
-                </picture>
-
-            </div>
-        </div>
-    </section>
+                
 {% endblock %}
