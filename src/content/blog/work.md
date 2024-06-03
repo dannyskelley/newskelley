@@ -64,7 +64,7 @@ imageAlt: Design work by Danny Skelley
 
 ![](/assets/images/blog/premo_tab.gif)
 
-## **PokerTableRatings.com *Aquired by [Zynga](https://www.zynga.com/)**
+## PokerTableRatings.com *Aquired by **[Zynga](https://www.zynga.com/)**
 
 ![](/assets/images/blog/launcher.png)
 
