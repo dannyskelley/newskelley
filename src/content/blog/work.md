@@ -26,8 +26,6 @@ imageAlt: Design work by Danny Skelley
 
 ## **Exploratory In Vehicle HMI Design**
 
-
-
 ![](/assets/images/blog/beston.jpg)
 
 ### [bestonkeywest.com](https://www.bestonkeywest.com/)
@@ -47,3 +45,21 @@ imageAlt: Design work by Danny Skelley
 ![](/assets/images/blog/3.jpg)
 
 ## **Responsive Web Design**
+
+
+
+![](/assets/images/blog/estuary.png)
+
+## **Responsive Web Design**
+
+
+
+![](/assets/images/blog/themes.jpeg)
+
+## **Mobile First hotel software and themes**
+
+
+
+![](/assets/images/blog/screenshot-2024-06-03-at-9.07.34 am.png)
+
+![](/assets/images/blog/premo_tab.gif)
