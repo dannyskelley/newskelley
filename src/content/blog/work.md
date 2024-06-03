@@ -8,6 +8,12 @@ tags:
 image: /assets/images/blog/bosch.png
 imageAlt: Design work by Danny Skelley
 ---
+## Android app design and iOS design and prototyping
+
+
+
+
+
 
 
 ![](/assets/images/blog/contigo.png)
@@ -16,6 +22,14 @@ imageAlt: Design work by Danny Skelley
 
 
 
+
+
 ![](/assets/images/blog/constellation.png)
 
-## **Enterprise Bill Pay and Small Business Marketing**
+## **Enterprise Bill Pay and Small Business Marketing responsive web design**
+
+
+
+![](/assets/images/blog/physiq.png)
+
+## **Android app and web design for Medical Client**
