@@ -5,11 +5,31 @@ author: Danny
 date: 2024-06-03T09:38:00.000Z
 tags:
   - post
-image: /assets/images/blog/bikeweek
-imageAlt: bikeweek.com
+image: /assets/images/blog/bosch.png
+imageAlt: Design work by Danny Skelley
 ---
-## **2007 - Bikeweek.com** Lead designer and front end developer
+## Android app design and iOS design and prototyping
 
-I Worked with a team of two other designers and three programmers to launch a niche social network from inception to reality.
+ 
 
-The site quickly gained thousands of users.
+ 
+
+![](/assets/images/blog/contigo.png)
+
+## **iOS Smart Water Bottle App Design and Branding**
+
+
+
+
+
+![](/assets/images/blog/constellation.png)
+
+## **Enterprise Bill Pay and Small Business Marketing**
+
+
+
+
+
+![](/assets/images/blog/physiq.png)
+
+## **Android app and web design for Medical Client**
