@@ -90,9 +90,7 @@ imageAlt: Design work by Danny Skelley
 
 #### Product Designer and developer
 
-
-
-![]()
+![](/assets/images/blog/regroup.jpg)
 
 ## **[Regroup.com](https://www.regroup.com/)**
 
