@@ -90,6 +90,14 @@ imageAlt: Design work by Danny Skelley
 
 #### Product Designer and developer
 
+
+
+![]()
+
+## **[Regroup.com](https://www.regroup.com/)**
+
+#### Lead Designer v1
+
 ![](/assets/images/blog/bikeweek.jpg)
 
 ### Bikeweek.com social network design
