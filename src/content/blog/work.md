@@ -106,6 +106,12 @@ imageAlt: Design work by Danny Skelley
 
 
 
+![](/assets/images/blog/hotels)
+
+### Hotel website design 2006
+
+##### First three paid designs
+
 
 
 ![](/assets/images/blog/screenshot-2024-06-03-at-1.55.28 pm.png)
