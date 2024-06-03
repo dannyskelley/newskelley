@@ -104,17 +104,13 @@ imageAlt: Design work by Danny Skelley
 
 ##### Lead designer and front end developer on 5 person team.
 
-
-
 ![](/assets/images/blog/hotels)
 
 ### Hotel website design 2006
 
 ##### First three paid designs
 
-
-
-![](/assets/images/blog/screenshot-2024-06-03-at-1.55.28 pm.png)
+![](/assets/images/blog/falling.png)
 
 ### thefallingstar.cjb.net 2002
 
