@@ -10,11 +10,9 @@ imageAlt: Design work by Danny Skelley
 ---
 ## Android app design and iOS design and prototyping
 
+ 
 
-
-
-
-
+ 
 
 ![](/assets/images/blog/contigo.png)
 
@@ -26,7 +24,9 @@ imageAlt: Design work by Danny Skelley
 
 ![](/assets/images/blog/constellation.png)
 
-## **Enterprise Bill Pay and Small Business Marketing responsive web design**
+## **Enterprise Bill Pay and Small Business Marketing**
+
+
 
 
 
