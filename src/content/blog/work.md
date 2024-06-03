@@ -8,7 +8,9 @@ tags:
 image: /assets/images/blog/screenshot-2024-06-03-at-10.04.14 am.png
 imageAlt: Design work by Danny Skelley
 ---
-![](/assets/images/blog/bikeweek)
+![](/assets/images/blog/screenshot-2024-06-03-at-10.12.51 am.png)
+
+![](/assets/images/blog/screenshot-2024-06-03-at-10.11.42 am.png)
 
 ## **2007 - Bikeweek.com** Lead designer and front end developer
 
