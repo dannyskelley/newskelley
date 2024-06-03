@@ -20,8 +20,8 @@ imageAlt: Design work by Danny Skelley
 
 ![](/assets/images/blog/physiq.png)
 
-## **Android app and web design for Medical Client**
+## **Android app and web app design for Medical Client**
 
 ![](/assets/images/blog/exploratory.jpg)
 
-## **Exploratory in vehicle HMI Design**
+## **Exploratory In Vehicle HMI Design**
