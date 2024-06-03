@@ -8,47 +8,67 @@ tags:
 image: /assets/images/blog/bosch.png
 imageAlt: Design work by Danny Skelley
 ---
-## Android app design and iOS design and prototyping
+## Android app design, iOS design & prototyping
 
 ![](/assets/images/blog/contigo.png)
 
 ## **iOS Smart Water Bottle App Design and Branding**
 
+**Lead Designer**
+
 ![](/assets/images/blog/constellation.png)
 
 ## **Enterprise Bill Pay and Small Business Marketing**
+
+**Lead Designer**
 
 ![](/assets/images/blog/physiq.png)
 
 ## **Android app and web app design for Medical Client**
 
+**Lead Designer**
+
 ![](/assets/images/blog/exploratory.jpg)
 
 ## **Exploratory In Vehicle HMI Design**
 
+**Lead Designer**
+
 ![](/assets/images/blog/beston.jpg)
 
-### [bestonkeywest.com](https://www.bestonkeywest.com/)
+### [Bestonkeywest.com](https://www.bestonkeywest.com/)
+
+#### Lead Designer[](https://www.bestonkeywest.com/)
 
 ![](/assets/images/blog/oceanvue.jpg)
 
 ## **Responsive Web Design**
 
+**Lead Designer**
+
 ![](/assets/images/blog/1.jpg)
 
 ## **Branding and Responsive Web Design**
+
+**Lead Designer**
 
 ![](/assets/images/blog/2.jpg)
 
 ## **Responsive Web Design**
 
+**Lead Designer**
+
 ![](/assets/images/blog/3.jpg)
 
 ## **Responsive Web Design**
 
+**Lead Designer**
+
 ![](/assets/images/blog/estuary.png)
 
 ## **Responsive Web Design**
+
+**Lead Designer**
 
 ![](/assets/images/blog/themes.jpeg)
 
@@ -62,7 +82,7 @@ imageAlt: Design work by Danny Skelley
 
 ## PokerTableRatings.com *Aquired by **[Zynga](https://www.zynga.com/)**
 
-#### Product Designer and Front end Dev
+#### Product Designer and Front end Developer
 
 ![](/assets/images/blog/launcher.png)
 
