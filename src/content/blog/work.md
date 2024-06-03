@@ -8,7 +8,7 @@ tags:
 image: /assets/images/blog/bikeweek
 imageAlt: bikeweek.com
 ---
-**2007 - Bikeweek.com** Lead designer and front end developer
+## **2007 - Bikeweek.com** Lead designer and front end developer
 
 I Worked with a team of two other designers and three programmers to launch a niche social network from inception to reality.
 
