@@ -88,7 +88,7 @@ imageAlt: Design work by Danny Skelley
 
 ## Poker-Edge.com *Aquired by **[Zynga](https://www.zynga.com/)**
 
-#### Product Designer and front end developer
+#### Product Designer and developer
 
 ![](/assets/images/blog/bikeweek.jpg)
 
