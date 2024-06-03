@@ -80,13 +80,13 @@ imageAlt: Design work by Danny Skelley
 
 ![](/assets/images/blog/premo_tab.gif)
 
-## PokerTableRatings.com *Aquired by **[Zynga](https://www.zynga.com/)**
+## PokerTableRatings.com 2009 *Aquired by **[Zynga](https://www.zynga.com/)**
 
-#### Product Designer and Front end Developer
+#### Lead Product Designer and Front end Developer
 
 ![](/assets/images/blog/launcher.png)
 
-## Poker-Edge.com *Aquired by **[Zynga](https://www.zynga.com/)**
+## Poker-Edge.com 2009 *Aquired by **[Zynga](https://www.zynga.com/)**
 
 #### Product Designer and developer
 
@@ -94,11 +94,11 @@ imageAlt: Design work by Danny Skelley
 
 ## **[Regroup.com](https://www.regroup.com/)**
 
-#### Lead Designer v1
+#### Lead Product Designer for initial product launch in 2008
 
 ![](/assets/images/blog/bikeweek.jpg)
 
-### Bikeweek.com social network design
+### Bikeweek.com social network design in 2007
 
 #### 20,000 Users in first year.
 
