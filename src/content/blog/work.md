@@ -54,18 +54,26 @@ imageAlt: Design work by Danny Skelley
 
 ## **Mobile First hotel software and themes**
 
+**Product Designer and Developer**
+
 ![](/assets/images/blog/screenshot-2024-06-03-at-9.07.34 am.png)
 
 ![](/assets/images/blog/premo_tab.gif)
 
 ## PokerTableRatings.com *Aquired by **[Zynga](https://www.zynga.com/)**
 
+#### Product Designer and Front end Dev
+
 ![](/assets/images/blog/launcher.png)
 
 ## Poker-Edge.com *Aquired by **[Zynga](https://www.zynga.com/)**
 
-
+#### Product Designer and front end developer
 
 ![](/assets/images/blog/bikeweek.jpg)
 
-### Bikeweek.com social network design and launch
+### Bikeweek.com social network design
+
+#### 20,000 Users in first year.
+
+##### Lead designer and front end developer on 5 person team.
