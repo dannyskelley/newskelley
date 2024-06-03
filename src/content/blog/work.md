@@ -103,3 +103,15 @@ imageAlt: Design work by Danny Skelley
 #### 20,000 Users in first year.
 
 ##### Lead designer and front end developer on 5 person team.
+
+
+
+
+
+![](/assets/images/blog/screenshot-2024-06-03-at-1.55.28 pm.png)
+
+### thefallingstar.cjb.net 2002
+
+#### Online music zine
+
+##### Created at 15 with my band mate
