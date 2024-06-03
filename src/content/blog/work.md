@@ -10,26 +10,18 @@ imageAlt: Design work by Danny Skelley
 ---
 ## Android app design and iOS design and prototyping
 
- 
-
- 
-
 ![](/assets/images/blog/contigo.png)
 
 ## **iOS Smart Water Bottle App Design and Branding**
-
-
-
-
 
 ![](/assets/images/blog/constellation.png)
 
 ## **Enterprise Bill Pay and Small Business Marketing**
 
-
-
-
-
 ![](/assets/images/blog/physiq.png)
 
 ## **Android app and web design for Medical Client**
+
+![](/assets/images/blog/exploratory.jpg)
+
+## **Exploratory in vehicle HMI Design**
