@@ -30,14 +30,20 @@ imageAlt: Design work by Danny Skelley
 
 ![](/assets/images/blog/beston.jpg)
 
-[bestonkeywest.com](https://www.bestonkeywest.com/)
+### [bestonkeywest.com](https://www.bestonkeywest.com/)
 
 ![](/assets/images/blog/oceanvue.jpg)
 
-
+## **Responsive Web Design**
 
 ![](/assets/images/blog/1.jpg)
 
+## **Branding and Responsive Web Design**
+
 ![](/assets/images/blog/2.jpg)
 
+## **Responsive Web Design**
+
 ![](/assets/images/blog/3.jpg)
+
+## **Responsive Web Design**
