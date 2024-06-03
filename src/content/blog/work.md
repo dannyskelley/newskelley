@@ -46,19 +46,13 @@ imageAlt: Design work by Danny Skelley
 
 ## **Responsive Web Design**
 
-
-
 ![](/assets/images/blog/estuary.png)
 
 ## **Responsive Web Design**
 
-
-
 ![](/assets/images/blog/themes.jpeg)
 
 ## **Mobile First hotel software and themes**
-
-
 
 ![](/assets/images/blog/screenshot-2024-06-03-at-9.07.34 am.png)
 
@@ -69,3 +63,9 @@ imageAlt: Design work by Danny Skelley
 ![](/assets/images/blog/launcher.png)
 
 ## Poker-Edge.com *Aquired by **[Zynga](https://www.zynga.com/)**
+
+
+
+![](/assets/images/blog/bikeweek.jpg)
+
+### Bikeweek.com social network design and launch
