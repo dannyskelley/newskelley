@@ -76,7 +76,7 @@ imageAlt: Design work by Danny Skelley
 
 **Product Designer and Developer**
 
-![](/assets/images/blog/screenshot-2024-06-03-at-9.07.34 am.png)
+![](/assets/images/blog/ptr.png)
 
 ![](/assets/images/blog/premo_tab.gif)
 
