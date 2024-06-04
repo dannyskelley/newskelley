@@ -10,7 +10,7 @@ imageAlt: projects
 ---
 When I was interviewing with GM and working on my final presentation I stumbled across Jon Yablonski. Jon's work and words were a huge inspiration prior to and after getting hired.
 
-[https://jonyablonski.com/articles/2016/a-guide-to-personal-side-projects/](https://jonyablonski.com/articles/2016/a-guide-to-personal-side-projects/ "https://jonyablonski.com/articles/2016/a-guide-to-personal-side-projects/")
+[https://jonyablonski.com/articles/2016/a-guide-to-personal-side-projects/](https://jonyablonski.com/articles/2016/a-guide-to-personal-side-projects/ "https\://jonyablonski.com/articles/2016/a-guide-to-personal-side-projects/")
 
 As an artist some times the hardest thing to do is start. The blank page can be daunting. Even after starting, how often do we finish and release what we have started?
 
@@ -32,37 +32,38 @@ Here are some tips for not only getting started, but actually making and releasi
 
 ### **Project 4**
 
-* [**https://dannyskelley.com/cookin/**](https://dannyskelley.com/cookin/ "https://dannyskelley.com/cookin/")
+* **[https://skelleyboy.github.io/cookin/](https://dannyskelley.com/cookin/ "https\://dannyskelley.com/cookin/")**
 
 This is an expansion of the last idea. BUT Imagine a world where you could easily access the recipes you use a lot. Is there a cooking social network for sharing recipes? Death to recipe blogs!
 
 **What I learned about and tested:**
 
-Cloning dannyskelley.com and customizing the Jekyll theme further. Using static site generators as CMS that are updatable via phones. Managing multiple github projects under a single domain [https://github.com/skelleyboy](https://github.com/skelleyboy "https://github.com/skelleyboy")
+Cloning dannyskelley.com and customizing the Jekyll theme further. Using static site generators as CMS that are updatable via phones. Managing multiple github projects under a single domain [https://github.com/skelleyboy](https://github.com/skelleyboy "https\://github.com/skelleyboy")
 
 ### **Project 3**
 
-* [**https://dannyskelley.com/homecookinpizza/**](https://dannyskelley.com/homecookinpizza/ "https://dannyskelley.com/homecookinpizza/")
+* **[https://skelleyboy.github.io/homecookinpizza/](https://dannyskelley.com/homecookinpizza/ "https\://dannyskelley.com/homecookinpizza/")**
 
 I found myself googling the same dough recipe over and over. Most recipe blogs have super long articles and tons of ads. google: "recipe blog memes"
 
 **What I learned about and tested:**
 
-1\. prefers-color-scheme: dark
+1. prefers-color-scheme: dark
 
 The **prefers-color-scheme** [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) [media feature](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries#media_features) is used to detect if the user has requested a light or dark color theme.
 
 The user might indicate this preference through an operating system setting (e.g. light or dark mode) or a user agent setting.
 
-2\. A refresher on adding google analytics. Every time I use google analytics I end up searching for whatever other options exist at the time. No wonder people pay others for google seo and marketing ;)
+2. A refresher on adding google analytics. Every time I use google analytics I end up searching for whatever other options exist at the time. No wonder people pay others for google seo and marketing.
 
 ### **Project 2**
 
-* [**https://dannyskelley.com/happyeveryday/**](https://dannyskelley.com/happyeveryday/ "https://dannyskelley.com/happyeveryday/")
+* **<https://skelleyboy.github.io/happyapp/>**
+* **[https://skelleyboy.github.io/happyeveryday/](https://skelleyboy.github.io/happyapp/)**
 
 At the start of the pandemic I thought it would be worth my time to enroll in a free course from Yale on happiness.
 
-[https://www.coursera.org/learn/the-science-of-well-being](https://www.coursera.org/learn/the-science-of-well-being "https://www.coursera.org/learn/the-science-of-well-being")
+[https://www.coursera.org/learn/the-science-of-well-being](https://www.coursera.org/learn/the-science-of-well-being "https\://www.coursera.org/learn/the-science-of-well-being")
 
 In short, our daily habits determine our happiness level. Specific daily science backed tasks can help increase happiness.
 
@@ -76,11 +77,10 @@ I wanted to expand the philosophy of quick creation of project 1. This project s
 
 ### Project 1
 
-* [https://dannyskelley.com/sketch-shortcuts-background/](https://dannyskelley.com/sketch-shortcuts-background/ "https://dannyskelley.com/sketch-shortcuts-background/")
+* <https://skelleyboy.github.io/sketch-shortcuts-background/>
 
 This is how I got the ball rolling. A super simple project that took minutes instead of days and would be helpful for myself and others.
 
 **What I learned about and tested:**
 
 Getting something done and sharing it. Customizing layouts using html/css Firefox developer tools inspector.
-
