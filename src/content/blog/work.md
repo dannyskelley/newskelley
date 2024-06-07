@@ -8,7 +8,13 @@ tags:
 image: /assets/images/blog/bosch.png
 imageAlt: Design work by Danny Skelley
 ---
-## Android app design, iOS design & prototyping
+# Android app design, iOS design & prototyping
+
+
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/QXJmoHPj_zo?si=IqZo_HlrgG7143Ta" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## **In Vehicle UI Design Systems for General Motors**
 
 ![](/assets/images/blog/contigo.png)
 
